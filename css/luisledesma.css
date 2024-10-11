@@ -5,12 +5,12 @@
 }
 
 body {
-    background: green;
+    background:#191970;
 } 
 
 
 .header {
-    background: white;
+    background:#00FFFF;
     padding: 20px;
     width: 100%;
     display: flex;
@@ -22,7 +22,36 @@ body {
   }
 
   .contenedorDescripcion {
-    background: lightgray;
+    background:#FFFFE0;
+    padding: 20px;
+    margin: 35px auto;
+    width: 50%;
+    border-radius: 10px;
+  }
+
+  .contenedorInformacionDeContacto{
+    background:#FFFFE0;
+    padding: 20px;
+    margin: 35px auto;
+    width: 50%;
+    border-radius: 10px;
+  }
+  .contenedorExperienciaEscolar{
+    background:#FFFFE0;
+    padding: 20px;
+    margin: 35px auto;
+    width: 50%;
+    border-radius: 10px;
+  }
+  .contenedorExperienciaLaboral{
+    background:#FFFFE0;
+    padding: 20px;
+    margin: 35px auto;
+    width: 50%;
+    border-radius: 10px;
+  }
+  .contacto {
+    background:#FFFFE0;
     padding: 20px;
     margin: 35px auto;
     width: 50%;
